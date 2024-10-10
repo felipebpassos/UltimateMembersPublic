@@ -23,7 +23,6 @@ The members area system was developed using pure PHP with a monolithic MVC archi
 - **Login and Access Control**: Robust authentication system with session management to ensure data security.
 - **Administrative Panel**: Tool to manage course content and monitor student progress.
 - **Vimeo and YouTube Integration**: Support for embedding course videos using the APIs of these platforms.
-- **Relational Database**: MySQL database with a focus on referential integrity and query optimization for high efficiency.
 
 <br>
 
