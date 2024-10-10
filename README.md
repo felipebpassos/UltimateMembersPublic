@@ -17,25 +17,20 @@
 
 <h2 id="about">📝 About</h2>
 
-HealUp is a mobile application built using React Native with Redux for state management, and a Node.js Express RESTful API for the backend. It provides a comprehensive telemedicine platform with features such as:
+The members area system was developed using pure PHP with a monolithic MVC architecture, providing a secure and customized environment for the "Reels de Cinema" course. Key features include:
 
-- **Schedule and Appointment Management**: Patients and healthcare professionals can manage availability, book appointments, and receive reminders.
-- **Advanced Search**: Advanced search functionality with filters to help users find professionals by specialty, price, or location.
-- **Video Calls**: Integrated video call functionality using OpenVidu (WebRTC) for secure and seamless consultations.
-- **File Uploads**: Upload and manage medical files and images directly within the app.
-- **Notifications**: Automated email notifications and push notifications to keep users updated.
-- **Payments**: Secure payment processing with credit card tokenization and PIX integration via ASAS.
-- **Real-time Notifications**: Configured WebSocket server for instant notifications.
-- **Two-Factor Authentication (2FA)**: Ensuring platform security and user identity verification.
+- **Kiwify Integration**: Automatic student updates via webhook for synchronization with the sales platform.
+- **Login and Access Control**: Robust authentication system with session management to ensure data security.
+- **Administrative Panel**: Tool to manage course content and monitor student progress.
+- **Vimeo and YouTube Integration**: Support for embedding course videos using the APIs of these platforms.
+- **Relational Database**: MySQL database with a focus on referential integrity and query optimization for high efficiency.
 
 <br>
 
 <h2 id="tech">💻 Technologies</h2>
 
-<br>
-
 <p align="center">
-  React Native | Redux | Styled Components | Node.js | Express.js | MySQL | AWS S3 | OpenVidu (WebRTC) | ASAS (Payment Integration) | WebSockets | JWT for authentication | Two-Factor Authentication (2FA) | Push Notifications (Firebase) | Redis (Caching)
+  PHP | MVC Architecture | MySQL | Vimeo API | YouTube API | Webhooks (Kiwify) | HTML/CSS | JavaScript | Bootstrap | JWT Authentication | Secure Sessions (PHP Sessions)
 </p>
 
 <br>
