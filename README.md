@@ -39,7 +39,7 @@ The members area system was developed using pure PHP with a monolithic MVC archi
 
 <p align="center">
     <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/aula.png?raw=true" alt="Image Example" width="400px">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
+    <img src="https://github.com/felipebpassos/UltimateMembersPublic/blob/main/usuarios.png?raw=true" alt="Image Example" width="400px">
 </p>
 
 <br>
