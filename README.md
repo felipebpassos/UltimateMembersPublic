@@ -45,4 +45,4 @@ The members area system was developed using pure PHP with a monolithic MVC archi
 
 <h2 id="demo">🚀 Demo</h2>
 
-[![Demo on YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/JqQV9JfI3sA)
+[![Demo on YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=-p7Dh-sdjEE)
