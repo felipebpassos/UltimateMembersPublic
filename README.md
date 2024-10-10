@@ -10,7 +10,7 @@
 ![Banner](https://github.com/felipebpassos/UltimateMembersPublic/blob/main/main_presentation.png?raw=true)
 
 <p align="center">
-    <b>Telemedicine marketplace for online appointments and scheduling.</b>
+    <i>A secure PHP-based members area.</i>
 </p>
 
 <br>
