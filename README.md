@@ -7,7 +7,7 @@
  <a href="#demo">Demo</a>
 </p>
 
-![Banner](https://github.com/felipebpassos/HealupPublic/blob/main/cover.png?raw=true)
+![Banner](https://github.com/felipebpassos/UltimateMembersPublic/blob/main/main_presentation.png?raw=true)
 
 <p align="center">
     <b>Telemedicine marketplace for online appointments and scheduling.</b>
