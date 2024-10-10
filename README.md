@@ -3,6 +3,7 @@
 <p align="center">
  <a href="#about">About</a> • 
  <a href="#tech">Technologies</a> •  
+ <a href="#screenshots">Screenshots</a> • 
  <a href="#demo">Demo</a>
 </p>
 
@@ -11,6 +12,8 @@
 <p align="center">
     <b>Telemedicine marketplace for online appointments and scheduling.</b>
 </p>
+
+<br>
 
 <h2 id="about">📝 About</h2>
 
@@ -34,6 +37,12 @@ HealUp is a mobile application built using React Native with Redux for state man
 <p align="center">
   React Native | Redux | Styled Components | Node.js | Express.js | MySQL | AWS S3 | OpenVidu (WebRTC) | ASAS (Payment Integration) | WebSockets | JWT for authentication | Two-Factor Authentication (2FA) | Push Notifications (Firebase) | Redis (Caching)
 </p>
+
+<br>
+
+<h2 id="screenshots">📱 Screenshots</h2>
+
+![Screen Shots](https://github.com/felipebpassos/HealupPublic/blob/main/healup-screenshots.png?raw=true)
 
 <br>
 
