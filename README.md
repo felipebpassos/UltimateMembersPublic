@@ -37,7 +37,10 @@ The members area system was developed using pure PHP with a monolithic MVC archi
 
 <h2 id="screenshots">📱 Screenshots</h2>
 
-![Screen Shots](https://github.com/felipebpassos/HealupPublic/blob/main/healup-screenshots.png?raw=true)
+<p align="center">
+    <img src="../.github/example.png" alt="Image Example" width="400px">
+    <img src="../.github/example.png" alt="Image Example" width="400px">
+</p>
 
 <br>
 
