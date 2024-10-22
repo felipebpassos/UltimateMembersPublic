@@ -10,7 +10,7 @@
 ![Banner](https://github.com/felipebpassos/UltimateMembersPublic/blob/main/main_presentation.png?raw=true)
 
 <p align="center">
-    <i>A secure PHP-based members area.</i>
+    <i>A PHP-based members area system.</i>
 </p>
 
 <br>
