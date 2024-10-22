@@ -17,7 +17,7 @@
 
 <h2 id="about">📝 About</h2>
 
-Members area system was developed using pure PHP with a monolithic MVC architecture, providing a secure and customized environment for the "Reels de Cinema" course. Key features include:
+Private e-learning environment developed in pure PHP with a monolithic MVC architecture, providing a secure and customized area for the "Reels de Cinema" course. Key features include:
 
 - **Kiwify Integration**: Automatic student updates via webhook for synchronization with the sales platform.
 - **Login and Access Control**: Robust authentication system with session management to ensure data security.
